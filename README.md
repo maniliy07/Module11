@@ -1,6 +1,7 @@
 # Module11
 **Required Assignment 11.1: What Drives the Price of a Car?**
 
+https://github.com/maniliy07/Module11/blob/main/prompt_II.ipynb
 
 **In this application,required to explore a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure speed of processing. goal is to understand what factors make a car more or less expensive.  As a result of analysis provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car.**
 
